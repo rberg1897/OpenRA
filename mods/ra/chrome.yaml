@@ -1,10 +1,10 @@
-sidebar-allies: chrome.png
+sidebar-irkan: chrome.png
 	background-top: 0,167,238,290
 	background-iconrow: 0,457,238,47
 	background-bottom: 0,504,238,8
 	background-supportoverlay: 184,118,64,48
 
-sidebar-button-allies: chrome.png
+sidebar-button-irkan: chrome.png
 	background: 59,31,22,22
 	border-r: 81,31,3,22
 	border-l: 56,31,3,22
@@ -14,7 +14,7 @@ sidebar-button-allies: chrome.png
 	corner-tr: 81,28,3,3
 	corner-bl: 56,53,3,3
 	corner-br: 81,53,3,3
-sidebar-button-allies-hover: chrome.png
+sidebar-button-irkan-hover: chrome.png
 	background: 59,3,22,22
 	border-r: 81,3,3,22
 	border-l: 56,3,3,22
@@ -24,7 +24,7 @@ sidebar-button-allies-hover: chrome.png
 	corner-tr: 81,0,3,3
 	corner-bl: 56,25,3,3
 	corner-br: 81,25,3,3
-sidebar-button-allies-pressed: chrome.png
+sidebar-button-irkan-pressed: chrome.png
 	background: 59,31,22,22
 	border-r: 81,31,3,22
 	border-l: 56,31,3,22
@@ -34,7 +34,7 @@ sidebar-button-allies-pressed: chrome.png
 	corner-tr: 81,28,3,3
 	corner-bl: 56,53,3,3
 	corner-br: 81,53,3,3
-sidebar-button-allies-highlighted: chrome.png
+sidebar-button-irkan-highlighted: chrome.png
 	background: 87,31,22,22
 	border-r: 109,31,3,22
 	border-l: 84,31,3,22
@@ -44,7 +44,7 @@ sidebar-button-allies-highlighted: chrome.png
 	corner-tr: 109,28,3,3
 	corner-bl: 84,53,3,3
 	corner-br: 109,53,3,3
-sidebar-button-allies-highlighted-hover: chrome.png
+sidebar-button-irkan-highlighted-hover: chrome.png
 	background: 87,3,22,22
 	border-r: 109,3,3,22
 	border-l: 84,3,3,22
@@ -54,7 +54,7 @@ sidebar-button-allies-highlighted-hover: chrome.png
 	corner-tr: 109,0,3,3
 	corner-bl: 84,25,3,3
 	corner-br: 109,25,3,3
-sidebar-button-allies-highlighted-pressed: chrome.png
+sidebar-button-irkan-highlighted-pressed: chrome.png
 	background: 87,31,22,22
 	border-r: 109,31,3,22
 	border-l: 84,31,3,22
@@ -64,7 +64,7 @@ sidebar-button-allies-highlighted-pressed: chrome.png
 	corner-tr: 109,28,3,3
 	corner-bl: 84,53,3,3
 	corner-br: 109,53,3,3
-sidebar-button-allies-disabled: chrome.png
+sidebar-button-irkan-disabled: chrome.png
 	background: 171,3,22,22
 	border-r: 193,3,3,22
 	border-l: 168,3,3,22
@@ -74,7 +74,7 @@ sidebar-button-allies-disabled: chrome.png
 	corner-tr: 193,0,3,3
 	corner-bl: 168,25,3,3
 	corner-br: 193,25,3,3
-sidebar-button-allies-highlighted-disabled: chrome.png
+sidebar-button-irkan-highlighted-disabled: chrome.png
 	background: 171,3,22,22
 	border-r: 193,3,3,22
 	border-l: 168,3,3,22
@@ -470,9 +470,9 @@ strategic: strategic.png
 
 flags: buttons.png
 	soviet: 0,112,30,15
-	allies: 30,112,30,15
+	irkan: 30,112,30,15
 	Random: 60,112,30,15
-	RandomAllies: 30,172,30,15
+	Randomirkan: 30,172,30,15
 	RandomSoviet: 0,172,30,15
 	spectator: 60,112,30,15
 	
@@ -963,3 +963,40 @@ mainmenu-border: dialog.png
 	corner-tr: 728,387,40,40
 	corner-bl: 648,467,40,40
 	corner-br: 728,467,40,40
+
+	chrome-irkan: chrome-irkan.png
+        specialbin-top: 0,0,30,51
+        specialbin-middle: 0,51,30,51
+        specialbin-bottom: 0,153,30,39
+        moneybin: 192,0,320,31
+        radar: 297,31,210,222
+        tooltip-bg: 0,288,272,136
+
+    power-irkan: chrome-irkan.png
+        power-indicator: 187,4,4,7
+
+    palette-irkan: chrome-irkan.png
+        top: 297,288,201,9
+        dock-top: 498,274,14,23
+        bottom: 297,489,201,9
+        dock-bottom: 498,489,14,23
+        bg-0: 297,297,201,48
+        dock-0: 498,297,14,48
+        bg-1: 297,345,201,48
+        dock-1: 498,345,14,48
+        bg-2: 297,393,201,48
+        dock-2: 498,393,14,48
+        bg-3: 297,441,201,48
+        dock-3: 498,441,14,48
+
+    digits-irkan: chrome-irkan.png
+        0: 32,0,13,17
+        1: 45,0,13,17
+        2: 58,0,13,17
+        3: 71,0,13,17
+        4: 84,0,13,17
+        5: 97,0,13,17
+        6: 110,0,13,17
+        7: 123,0,13,17
+        8: 136,0,13,17
+        9: 149,0,13,17
